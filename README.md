@@ -242,9 +242,7 @@ If you started Prometheus Exporters using `make monitoring` command. Prometheus 
 ![Metrics](https://user-images.githubusercontent.com/16992394/78685076-89a58900-78f1-11ea-959b-ce374fe51500.jpg)
 
 
-# License
-[MIT License](https://raw.githubusercontent.com/sherifabdlnaby/elastdocker/master/LICENSE)
-Copyright (c) 2020 Sherif Abdel-Naby
+
 
 # Contribution
 
